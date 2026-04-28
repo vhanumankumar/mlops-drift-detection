@@ -1,5 +1,5 @@
 # MLOps Pipeline with Drift Detection & Auto-Retraining
-![CI/CD](https://github.com/vhanumankumar/mlops-drift-detection/actions/workflows/ci_cd.yml/badge.svg)
+
 > Automated model monitoring, drift detection, and retraining for production ML.
 
 
